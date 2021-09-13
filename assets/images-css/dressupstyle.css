@@ -1,0 +1,319 @@
+#mainFrame {
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    width: 540px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: white;
+}
+
+header {
+    background-color: deeppink;
+}
+
+h1 {
+    margin: 10px;
+    padding: 10px;
+    font-size: 40px;
+}
+
+p {
+    margin: 10px;
+    padding: 10px;
+    font-size: 20px;
+}
+
+#buttons {
+    background-color: dodgerblue;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+.btn {
+    background-color: purple;
+    border: none;
+    color: white;
+    padding: 15px 20px;
+    margin: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#container {
+    position: absolute;
+    width: 540px;
+    height: 540px;
+    background-color: deeppink;
+    background-image: url("./bg.png")
+}
+
+#cat {
+    position: absolute;
+    width: 540px;
+    height: 540px;
+    background-image: url("./cat.png");
+}
+
+#hats {
+    position: absolute;
+    width: 540px;
+    height: 540px;
+}
+
+.hats1 {
+    position: absolute;
+    width: 540px;
+    height: 540px;
+    background-image: url("./hats1.png");
+}
+
+.hats2 {
+    position: absolute;
+    width: 540px;
+    height: 540px;
+    background-image: url("./hats2.png");
+}
+
+.hats3 {
+    position: absolute;
+    width: 540px;
+    height: 540px;
+    background-image: url("./hats3.png");
+}
+
+.hats4 {
+    position: absolute;
+    width: 540px;
+    height: 540px;
+    background-image: url("./hats4.png");
+}
+
+.hats5 {
+    position: absolute;
+    width: 540px;
+    height: 540px;
+    background-image: url("./hats5.png");
+}
+
+#glasses {
+    position: absolute;
+    width: 540px;
+    height: 540px;
+}
+
+.glasses1 {
+    position: absolute;
+    width: 540px;
+    height: 540px;
+    background-image: url("./glasses1.png");
+}
+
+.glasses2 {
+    position: absolute;
+    width: 540px;
+    height: 540px;
+    background-image: url("./glasses2.png");
+}
+
+.glasses3 {
+    position: absolute;
+    width: 540px;
+    height: 540px;
+    background-image: url("./glasses3.png");
+}
+
+.glasses4 {
+    position: absolute;
+    width: 540px;
+    height: 540px;
+    background-image: url("./glasses4.png");
+}
+
+.glasses5 {
+    position: absolute;
+    width: 540px;
+    height: 540px;
+    background-image: url("./glasses5.png");
+}
+
+#necks {
+    position: absolute;
+    width: 540px;
+    height: 540px;
+}
+
+.necks1 {
+    position: absolute;
+    width: 540px;
+    height: 540px;
+    background-image: url("./necks1.png");
+}
+
+.necks2 {
+    position: absolute;
+    width: 540px;
+    height: 540px;
+    background-image: url("./necks2.png");
+}
+
+.necks3 {
+    position: absolute;
+    width: 540px;
+    height: 540px;
+    background-image: url("./necks3.png");
+}
+
+.necks4 {
+    position: absolute;
+    width: 540px;
+    height: 540px;
+    background-image: url("./necks4.png");
+}
+
+.necks5 {
+    position: absolute;
+    width: 540px;
+    height: 540px;
+    background-image: url("./necks5.png");
+}
+
+#wrists {
+    position: absolute;
+    width: 540px;
+    height: 540px;
+}
+
+.wrists1 {
+    position: absolute;
+    width: 540px;
+    height: 540px;
+    background-image: url("./wrists1.png");
+}
+
+.wrists2 {
+    position: absolute;
+    width: 540px;
+    height: 540px;
+    background-image: url("./wrists2.png");
+}
+
+.wrists3 {
+    position: absolute;
+    width: 540px;
+    height: 540px;
+    background-image: url("./wrists3.png");
+}
+
+.wrists4 {
+    position: absolute;
+    width: 540px;
+    height: 540px;
+    background-image: url("./wrists4.png");
+}
+
+.wrists5 {
+    position: absolute;
+    width: 540px;
+    height: 540px;
+    background-image: url("./wrists5.png");
+}
+
+#wings {
+    position: absolute;
+    width: 540px;
+    height: 540px;
+}
+
+.wings1 {
+    position: absolute;
+    width: 540px;
+    height: 540px;
+    background-image: url("./wings1.png");
+}
+
+.wings2 {
+    position: absolute;
+    width: 540px;
+    height: 540px;
+    background-image: url("./wings2.png");
+}
+
+.wings3 {
+    position: absolute;
+    width: 540px;
+    height: 540px;
+    background-image: url("./wings3.png");
+}
+
+.wings4 {
+    position: absolute;
+    width: 540px;
+    height: 540px;
+    background-image: url("./wings4.png");
+}
+
+.wings5 {
+    position: absolute;
+    width: 540px;
+    height: 540px;
+    background-image: url("./wings5.png");
+}
+
+#friends {
+    position: absolute;
+    width: 540px;
+    height: 540px;
+}
+
+.friends1 {
+    position: absolute;
+    width: 540px;
+    height: 540px;
+    background-image: url("./friends1.png");
+}
+
+.friends2 {
+    position: absolute;
+    width: 540px;
+    height: 540px;
+    background-image: url("./friends2.png");
+}
+
+.friends3 {
+    position: absolute;
+    width: 540px;
+    height: 540px;
+    background-image: url("./friends3.png");
+}
+
+.friends4 {
+    position: absolute;
+    width: 540px;
+    height: 540px;
+    background-image: url("./friends4.png");
+}
+
+.friends5 {
+    position: absolute;
+    width: 540px;
+    height: 540px;
+    background-image: url("./friends5.png");
+}
+
+::-webkit-scrollbar {
+    width: 15px;
+}
+
+::-webkit-scrollbar-track {
+    background: white;
+}
+
+::-webkit-scrollbar-thumb {
+    background: deeppink;
+}
